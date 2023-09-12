@@ -4,6 +4,7 @@
 }
 .s1{
   background: rgba(229, 84, 115, 0.10);
+  width: 100%;
   
   
 }
@@ -50,5 +51,9 @@
   width: 635px;
   margin-top: 40px;
  
+  
+}
+/* section own end */
+.div3{
   
 }
