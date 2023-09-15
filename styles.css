@@ -34,7 +34,7 @@
   margin-bottom: 20px;
  
 }
-.div1 button{
+  button{
   background: #E55473;
   border-radius: 7px;
   border-style: none;
@@ -54,6 +54,140 @@
   
 }
 /* section own end */
+.s2{
+  height: 100vh;
+}
 .div3{
+  text-align: center;
+  margin-top: 100px;
+}
+.div3 h4{
+  font-size: 40px;
+  margin-bottom: 20px;
+}
+.div3 p{
+  font-size: 18px;
+  width: 500px;
+  margin: 0px auto;
+}
+/* section tow end */
+.s3{
   
+  background: rgba(229, 84, 115, 0.05);
+ 
+}
+.div8{
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  height: 90vh;
+  text-align: center;
+}
+.div9 h3{
+  font-size: 38px;
+  margin-bottom: 20px;
+}
+.div9 p{
+  font-size: 18px;
+  width: 500px;
+  margin-bottom: 20px;
+}
+ span{
+  border-radius: 8px;
+  color: #E55473;
+
+}
+
+/* section three end */
+.div12 {
+  text-align: center;
+
+}
+.div12 h4{
+  font-size: 40px;
+  margin-top: 50px;
+
+}
+.div12 p{
+  font-size: 18px;
+  width: 500px;
+  margin: 40px auto;
+}
+.div13{
+  display: flex;
+  justify-content: center;
+  
+
+}
+.div14{
+  padding-right: 25px;
+  padding-bottom: 100px;
+
+}
+.div15{
+  padding-right: 25px;
+
+
+
+}
+.div16{
+  padding-right: 25px;
+
+
+
+}
+/* section four end */
+.div18{
+  background-image:url("image/Rectangle\ 9.png") ;
+  background-repeat: no-repeat;
+  height: 80vh;
+  background-position: center;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  text-align: center;
+
+
+  
+   
+}
+.div19 h4{
+  font-size: 40px;
+  padding-bottom: 10px;
+  
+  
+
+}
+.div19 p{
+  font-size: 20px;
+  padding-bottom: 30px;
+}
+input{
+  width: 700px;
+  height: 65px;
+}
+.but{
+  height: 65px;
+  width: 150px;
+  margin-left: 30px;
+}
+footer{
+  background:#111010 ;
+  height: 50vh;
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+.div20 h4{
+  font-size: 42px;
+  margin: 20px;
+}
+.div20 p{
+  font-size: 19px;
+  width: 500px;
+  font-weight: 400 px;
+  margin-bottom: 30px;
+  font-style: normal;
 }
